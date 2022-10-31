@@ -3,16 +3,16 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
-global.mods = [] 
-global.prems = [] 
-global.kontak = ['62895327934887']
+global.owner = ['6288225413262'] 
+global.mods = [6288225413262] 
+global.prems = [6288225413262] 
+global.kontak = ['6288225413262']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'DhsNs-Md-Setings'
+global.noown = '6288225413262'
+global.namebot = 'DhsNs One Botz'
+global.nobot = '6287764274780'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/itskri99'
@@ -22,11 +22,11 @@ global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, lin
 global.saweria = 'https://saweria.co/Kricom'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '08'
+global.pulsa = '08'
+global.gopay = '08'
+global.shopay = '08'
+global.ovo = '08'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'DhsNs One Botz'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 Dhamar Ofc'
+global.wm3 = '⫹⫺ Powered DhsNs | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.packname = 'Powered By'
+global.author = 'By DhsNs Botz'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
